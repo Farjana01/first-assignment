@@ -151,7 +151,108 @@ z-index: -1;
   opacity: 35%;
 }
 
+/* Body Start */
+.body-area{
+  width: 77%;
+  margin: 0 auto;
+}
 
+.body1{
+  display: flex;
+}
+
+.body2{
+  display: flex;
+  margin-top: 100px;
+}
+
+.body-content{
+  padding: 25px;
+  margin-bottom: 30px;
+}
+
+.body-img img{
+  width: 500px;
+  height: 400px;
+}
+
+.body2 .body-content{
+  padding-left: 105px;
+}
+
+.body-content a{
+  width: 230px;
+  height: 56px;
+  margin-top: 30px;
+  background: #FF5959;
+  color: #fff;
+  border-radius: 5px;
+  border-style: none;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 450;
+  text-decoration: none;
+  padding: 16px 20.5px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+
+/* Body Start End */
+
+/* Donate plan Start */
+.donate-plan-area{
+  margin-top: 130px;
+  margin-bottom: 100px;
+}
+
+.donate-plan-content{
+  text-align: center;
+}
+.donate-plan-content p{
+  padding: 0 30%;
+}
+.card{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  padding-left: 155px;
+  padding-right: 155px;
+}
+
+.card-area{
+  width: 360px;
+  height: 352px;
+  left: 157px;
+  top: 1595.5px;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 35px;
+  margin-left: 25px;  
+}
+
+.card-area img{
+   padding-bottom: 30px;
+}
+
+.card-area h3{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+.card-area p{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #707070;
+  
+}
+
+/* Donate plan End */
 
 
 
