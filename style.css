@@ -264,15 +264,43 @@ z-index: -1;
 
  /*update  Area Design End*/
  .form-area{
-  width: 100%;
+  width: 809px;
+  height: 200px;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 1px solid rgb(165, 144, 144);
   border-radius: 4px;
   box-sizing: border-box;
-
+  background: #FF59591A;
+  position: relative;
  }
+
+ .from-input{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: flex;
+ }
+
+ .from-input input{
+  width: 234px;
+  height: 48px;
+  border-style: none;
+  background: #D9D9D9;
+  border-radius: 5px 0px 0px 5px;
+  
+ }
+
+ .from-input input[type="submit"]{
+  width: 157px;
+  height: 48px;
+  background: #FF5959;
+  color: white;
+ }
+
+ 
 
 
 /* Footer area design Start here  */
