@@ -150,55 +150,7 @@ z-index: -1;
   opacity: 35%;
 }
 
-/* Body Start */
-.body-area{
-  width: 77%;
-  margin: 0 auto;
-}
 
-.body1{
-  display: flex;
-}
-
-.body2{
-  display: flex;
-  margin-top: 100px;
-}
-
-.body-content{
-  padding: 25px;
-  margin-bottom: 30px;
-}
-
-.body-img img{
-  width: 500px;
-  height: 400px;
-}
-
-.body2 .body-content{
-  padding-left: 105px;
-}
-
-.body-content a{
-  background: #FF5959;
-  color: #fff;
-  text-decoration: none;
-  padding: 16px 20.5px;
-  font-size: 20px;
-  line-height: 24px;
-  width: 230px;
-  height: 56px;
-  margin-top: 30px;
-  border-radius: 5px;
-  border-style: none;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 450;
-  
-}
-
-
-/* Body Start End */
 
 /* Donate plan Start */
 .donate-plan-area{
